@@ -9,4 +9,4 @@ This folder contains data visualization exercises for the matplotlib and seaborn
 
 ## How to use
 
-Each folder contains Python scripts or Jupyter notebooks of the relevant exercises. You can complete the exercises by examining folders and running scripts.
+Each folder contains Python scripts or Jupyter notebooks of the relevant exercises. You can complete the exercises by examining folders and running scripts...
