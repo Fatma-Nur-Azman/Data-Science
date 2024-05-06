@@ -1,3 +1,5 @@
+Sharing Python, Matplotlib and Seaborn Exercises!
+
 I created notes by doing exercises with Python and Python's libraries like Matplotlib and Seaborn. I wanted to share these exercises to contribute to those who want to progress in Python.
 
 </br>
