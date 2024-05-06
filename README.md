@@ -1,4 +1,4 @@
-I created notes by doing exercises with Python visualization libraries such as Matplotlib and Seaborn, and I wanted to share these notes to contribute to those who want to progress in visualization.
+I created notes by doing exercises with Python and Python's libraries like Matplotlib and Seaborn. I wanted to share these exercises to contribute to those who want to progress in Python.
 
 </br>
 </br>
