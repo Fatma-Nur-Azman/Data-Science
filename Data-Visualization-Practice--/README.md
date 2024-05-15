@@ -1,6 +1,9 @@
 # Sharing Data Visualization Exercises
 
-
+Libraries for data vizualation ;
+- Matplotlib
+- Seaborn 
+- Folium 
 
 - </br>
 I hope these notes will help you improve your visualization skills and be useful for other learners like you. I look forward to your comments and feedback!
