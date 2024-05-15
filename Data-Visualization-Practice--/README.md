@@ -8,7 +8,7 @@ I hope these notes will help you improve your visualization skills and be useful
 
 Each folder contains Python scripts or Jupyter notebooks of the relevant exercises. You can complete the exercises by examining folders and running scripts...
 
-My projects consist of examples from https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_ and my own examples
+My projects consist of examples from https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_ and my own examples (Only Matplotlib)
 
 
 
