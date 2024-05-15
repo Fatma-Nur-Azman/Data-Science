@@ -1,7 +1,5 @@
 # Sharing Data Visualization Exercises
 
-This folder contains data visualization exercises for the matplotlib and seaborn libraries.
-</br>
 
 
 - </br>
