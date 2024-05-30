@@ -18,6 +18,8 @@ Location Search Feature: Enhance user experience with easy location searches.
 ✨ Why You Should Try Folium:
 Whether you are a seasoned data professional or just starting your journey, Folium offers an intuitive and powerful platform for geospatial analysis. Its versatility and ease of use make it a go-to tool for anyone looking to add a spatial dimension to their data insights.
 
+Notebook link = https://nbviewer.org/github/Fatma-Nur-Azman/Data-Science/blob/main/Data-Visualization-Practice--/Folium/Folium_MASTER.ipynb
+
 Source = https://medium.com/academy-team/folium-ile-harita-g%C3%B6rselle%C5%9Ftirme-a4a07a55eb81
 
 Feel free to check out my detailed Folium Notebook on GitHub where I cover installation, basic to advanced features, and real-world applications.
