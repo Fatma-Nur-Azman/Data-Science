@@ -6,16 +6,16 @@ I'm excited to share my latest project using the powerful Python library, Folium
 
 🔍 Why Folium?
 
-Interactive Maps: Transform static data into dynamic visual stories.
-Data-Driven Insights: Unearth hidden patterns and trends with advanced visualizations.
-Rich Features: Customize your maps with pop-ups, markers, heatmaps, and more.
-Wide Map Provider Support: Seamlessly integrates with OpenStreetMap, Mapbox, and Stamen.
+- Interactive Maps: Transform static data into dynamic visual stories.
+- Data-Driven Insights: Unearth hidden patterns and trends with advanced visualizations.
+- Rich Features: Customize your maps with pop-ups, markers, heatmaps, and more.
+- Wide Map Provider Support: Seamlessly integrates with OpenStreetMap, Mapbox, and Stamen.
 
 📌 Key Features Explored:
 
-Adding Markers: Highlight key locations with detailed markers.
-Creating Heatmaps: Visualize data density and distribution.
-Location Search Feature: Enhance user experience with easy location searches.
+- Adding Markers: Highlight key locations with detailed markers.
+- Creating Heatmaps: Visualize data density and distribution.
+- Location Search Feature: Enhance user experience with easy location searches.
 
 ✨ Why You Should Try Folium:
 
