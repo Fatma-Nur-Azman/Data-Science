@@ -10,12 +10,15 @@ Interactive Maps: Transform static data into dynamic visual stories.
 Data-Driven Insights: Unearth hidden patterns and trends with advanced visualizations.
 Rich Features: Customize your maps with pop-ups, markers, heatmaps, and more.
 Wide Map Provider Support: Seamlessly integrates with OpenStreetMap, Mapbox, and Stamen.
+
 📌 Key Features Explored:
 
 Adding Markers: Highlight key locations with detailed markers.
 Creating Heatmaps: Visualize data density and distribution.
 Location Search Feature: Enhance user experience with easy location searches.
+
 ✨ Why You Should Try Folium:
+
 Whether you are a seasoned data professional or just starting your journey, Folium offers an intuitive and powerful platform for geospatial analysis. Its versatility and ease of use make it a go-to tool for anyone looking to add a spatial dimension to their data insights.
 
 Notebook link = https://nbviewer.org/github/Fatma-Nur-Azman/Data-Science/blob/main/Data-Visualization-Practice--/Folium/Folium_MASTER.ipynb
