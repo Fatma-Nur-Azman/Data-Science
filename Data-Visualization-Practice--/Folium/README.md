@@ -34,6 +34,12 @@ LinkedIn: [Fatma Nur Azman](https://www.linkedin.com/in/fatma-nur-azman/)
 Website: [Fatma-Nur-Azman](https://fatmanurazman.vercel.app/)
 
 Your feedback and thoughts are very valuable to me. Let's discuss how we can leverage geospatial analysis to provide effective insights!
+## Usage
+
+Clone the repository and open the Power BI file to explore the dashboards and analysis.
+
+```sh
+git clone https://github.com/Fatma-Nur-Azman/Data-Visualization-Practice--/Folium.git
 
 <img src="https://github.com/Fatma-Nur-Azman/Data-Science/blob/main/Data-Visualization-Practice--/Folium/Folium.png" width="1920" />
 
